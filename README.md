@@ -1,6 +1,8 @@
 # Bases-prueba1
 Esta es la descripción del proyecto
 
+![El mejor juego](blue-aesthetic-hollow-knight-djwbkkcn3cganm1x.jpg)
+
 ## Sección 
 Una lista:
 - Hola.
